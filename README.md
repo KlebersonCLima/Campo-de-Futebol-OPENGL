@@ -1,28 +1,33 @@
-# Campo-de-Futebol-OPENGL
-Projeto Campo de Futebol, feito no Segundo periodo em Modelagem 3D onde uso a linguagem C, para desenvolver o projeto de um "Mini Jogo" usando a biblioteca OPENGL, onde desenvolvo um mini estadio, usando trações e forma geometricas primitivas, para modelar um goleiro, e as demaias senas no campo.
-## Imagem do Jogo
+# ⚽ Campo-de-Futebol-OPENGL
 
-![image](https://github.com/kleberson56/Campo-de-Futebol-OPENGL/assets/132021267/7d2d6d19-6b72-4a98-abec-c23762bf28f4)
+Projeto desenvolvido no segundo período de Modelagem 3D, utilizando a linguagem C e a biblioteca OPENGL. O objetivo é criar um mini jogo de futebol, simulando um estádio com goleiro e interações simples.
 
-Nele vemos que temos um goleiro e uma bola, ao clicar no espaço temos uma intereação onde a bola vai sentido ao gol, e o usuario pode usar as setas para estar, controlando a bola, caso o usuario (jogador) erre uma mensagem de erro é mostrada na tela do jogo em forma grafico, e também em saida padrão, e caso acerto é mostrado a palavra GOL, dizendo que o jogador fez o GOL!
+## 🎮 Descrição do Jogo
 
-## Demonstração de GOL 
- ![image](https://github.com/kleberson56/Campo-de-Futebol-OPENGL/assets/132021267/399944ae-9a8d-48f6-8fe7-17c3c5f177d5)
-## Demonstração de ERRO
- ![image](https://github.com/kleberson56/Campo-de-Futebol-OPENGL/assets/132021267/3fd4e881-953d-4989-8fe8-fc9bc53b0bd3)
+O jogo consiste em um goleiro e uma bola. O jogador controla a bola utilizando as setas do teclado, enquanto tenta acertar o gol. Ao pressionar a barra de espaço, a bola é lançada em direção ao gol, e a interação é visualizada na tela.
 
-temos também o placar do jogo onde nos mostra o acerto e os erros e também a quantidade de chutes dados pelo usuario (jogador).
-![image](https://github.com/kleberson56/Campo-de-Futebol-OPENGL/assets/132021267/9d4a229e-d5fb-474d-a274-0b78cc248e82)
+### 🏅 Funcionalidades
 
-Conseguimos também fazer movimentos de camera usando as setas de nosso teclado onde ele rotaciona entre os eixos X  e Z 
-podendo nos dar uma perspectiva mais legal do jogo.
+- **Placar**: O placar exibe os acertos, erros e o número de chutes dados.
+- **Interação**: Ao errar, uma mensagem de erro é exibida, tanto graficamente no jogo quanto na saída padrão. Se o jogador acertar, a palavra "GOL" é exibida.
+- **Movimento da Câmera**: A câmera pode ser movida usando as setas, oferecendo diferentes perspectivas do jogo ao rotacionar entre os eixos X e Z.
 
-![image](https://github.com/kleberson56/Campo-de-Futebol-OPENGL/assets/132021267/14cfc91f-85b8-47e0-80c5-8b0cd53b8eac)
+## 📸 Imagens
 
-Na saida padrão temos um manual, e as contagens de placar!
-![image](https://github.com/kleberson56/Campo-de-Futebol-OPENGL/assets/132021267/c29ae094-e259-4800-9dea-ae7cbdcf682f)
+### Jogo em Ação  
+![Imagem do Jogo](https://github.com/kleberson56/Campo-de-Futebol-OPENGL/assets/132021267/7d2d6d19-6b72-4a98-abec-c23762bf28f4)
 
+### Demonstração de "GOL"  
+![Demonstração de GOL](https://github.com/kleberson56/Campo-de-Futebol-OPENGL/assets/132021267/399944ae-9a8d-48f6-8fe7-17c3c5f177d5)
 
+### Demonstração de "ERRO"  
+![Demonstração de ERRO](https://github.com/kleberson56/Campo-de-Futebol-OPENGL/assets/132021267/3fd4e881-953d-4989-8fe8-fc9bc53b0bd3)
 
+### Placar do Jogo  
+![Placar](https://github.com/kleberson56/Campo-de-Futebol-OPENGL/assets/132021267/9d4a229e-d5fb-474d-a274-0b78cc248e82)
 
+### Movimentos da Câmera  
+![Movimento de Câmera](https://github.com/kleberson56/Campo-de-Futebol-OPENGL/assets/132021267/14cfc91f-85b8-47e0-80c5-8b0cd53b8eac)
 
+### Saída Padrão  
+![Saída Padrão](https://github.com/kleberson56/Campo-de-Futebol-OPENGL/assets/132021267/c29ae094-e259-4800-9dea-ae7cbdcf682f)
